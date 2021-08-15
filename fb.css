@@ -1,0 +1,33 @@
+*{
+    background: #d89505;
+}
+.container{
+    width: 100%;
+    height:100%;
+    text-align: center;
+    margin-top: 300px;
+}
+h1{
+    color: white;
+}
+
+input{
+    width: 150px;
+    height: 30px;
+    background: white;
+    margin-left: 10px;
+   
+}
+button
+{
+    background: white;
+    width: 120px;
+    height: 35px;
+    background: white;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+#result{
+    color: white;
+}
